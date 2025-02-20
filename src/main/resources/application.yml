@@ -1,0 +1,36 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+      settings:
+        web-allow-others: true
+  sql:
+    init:
+      mode: always
+  logging:
+    level:
+      org.hibernate.SQL: DEBUG
+      org.springframework.jdbc: DEBUG
+
+appDescription: "Reto Indra"
+appVersion: "1.0.0"
+
+jwt:
+  secret: DjT+8vAoMDUMijZGP20YjZy+aitCijRQ4wcfz7M3VMQ= # Clave secreta para firmar el token
+  expiration: 86400 # Tiempo de expiración en segundos (24 horas)

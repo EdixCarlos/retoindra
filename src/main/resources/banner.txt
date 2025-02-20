@@ -1,0 +1,19 @@
+RRRRRRRRRRRRRRRRR                                tttt                                IIIIIIIIII                            d::::::d
+R::::::::::::::::R                            ttt:::t                                I::::::::I                            d::::::d
+R::::::RRRRRR:::::R                           t:::::t                                I::::::::I                            d::::::d
+RR:::::R     R:::::R                          t:::::t                                II::::::II                            d:::::d
+  R::::R     R:::::R    eeeeeeeeeeee    ttttttt:::::ttttttt       ooooooooooo          I::::Innnn  nnnnnnnn        ddddddddd:::::drrrrr   rrrrrrrrr   aaaaaaaaaaaaa
+  R::::R     R:::::R  ee::::::::::::ee  t:::::::::::::::::t     oo:::::::::::oo        I::::In:::nn::::::::nn    dd::::::::::::::dr::::rrr:::::::::r  a::::::::::::a
+  R::::RRRRRR:::::R  e::::::eeeee:::::eet:::::::::::::::::t    o:::::::::::::::o       I::::In::::::::::::::nn  d::::::::::::::::dr:::::::::::::::::r aaaaaaaaa:::::a
+  R:::::::::::::RR  e::::::e     e:::::etttttt:::::::tttttt    o:::::ooooo:::::o       I::::Inn:::::::::::::::nd:::::::ddddd:::::drr::::::rrrrr::::::r         a::::a
+  R::::RRRRRR:::::R e:::::::eeeee::::::e      t:::::t          o::::o     o::::o       I::::I  n:::::nnnn:::::nd::::::d    d:::::d r:::::r     r:::::r  aaaaaaa:::::a
+  R::::R     R:::::Re:::::::::::::::::e       t:::::t          o::::o     o::::o       I::::I  n::::n    n::::nd:::::d     d:::::d r:::::r     rrrrrrraa::::::::::::a
+  R::::R     R:::::Re::::::eeeeeeeeeee        t:::::t          o::::o     o::::o       I::::I  n::::n    n::::nd:::::d     d:::::d r:::::r           a::::aaaa::::::a
+  R::::R     R:::::Re:::::::e                 t:::::t    tttttto::::o     o::::o       I::::I  n::::n    n::::nd:::::d     d:::::d r:::::r          a::::a    a:::::a
+RR:::::R     R:::::Re::::::::e                t::::::tttt:::::to:::::ooooo:::::o     II::::::IIn::::n    n::::nd::::::ddddd::::::ddr:::::r          a::::a    a:::::a
+R::::::R     R:::::R e::::::::eeeeeeee        tt::::::::::::::to:::::::::::::::o     I::::::::In::::n    n::::n d:::::::::::::::::dr:::::r          a:::::aaaa::::::a
+R::::::R     R:::::R  ee:::::::::::::e          tt:::::::::::tt oo:::::::::::oo      I::::::::In::::n    n::::n  d:::::::::ddd::::dr:::::r           a::::::::::aa:::a
+RRRRRRRR     RRRRRRR    eeeeeeeeeeeeee            ttttttttttt     ooooooooooo        IIIIIIIIIInnnnnn    nnnnnn   ddddddddd   dddddrrrrrrr            aaaaaaaaaa  aaaa
+
+${application.title} ${application.version}
+Powered by edix ${spring-boot.version}
